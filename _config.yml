@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Quantitative biology via mass spectrometry"
+title                    : "Harrison Specht"
 title_separator          : "-"
 name                     : &name "Harrison Specht"
 description              : &description "Scientist"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Harrison Specht"
   avatar           : "profile.jpg"
-  bio              : "Post-doc, Slavov Lab"
+  bio              : "Post-doctoral researcher\n Slavov Lab"
   location         : "Boston, MA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
