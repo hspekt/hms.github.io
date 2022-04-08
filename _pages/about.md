@@ -10,10 +10,10 @@ redirect_from:
 
 {% include base_path %}
 
-Hello! I'm Harrison; I'm a scientist using my training in chemistry, mass spectrometry and data science to satisfy my curiosity about biology. Currently, I am  a post-doctoral researcher in the [Slavov Laboratory](https://slavovlab.net) at Northeastern University where I am working on single cell proteomics methods both experimental and computational.  
+Hello, I'm Harrison Specht! I am a scientist using my training in chemistry, mass spectrometry and data science to satisfy my curiosity about biology. Currently, I am  a post-doctoral researcher in the [Slavov Laboratory](https://slavovlab.net) at Northeastern University where I am working on single cell proteomics methods both experimental and computational.  
 
 ## My research
-I develop [methods](https://scope2.slavovlab.net) for measuring the abundance of proteins in single cells. Why is this cool? Proteins perform computation! By inferring each cells' decision making processes through quantifying its proteins I hope to understand both the cells' healthy and diseased states. 
+I develop [methods](https://scope2.slavovlab.net) for measuring the abundance of proteins in single cells. Why is this cool? Proteins perform computation! I hope to use the concurrent changes in protein abundances across single cells to understand their decision making processes in healthy and diseased states. 
 
 ## My background and history
 I received my Ph.D. working with [Nikolai Slavov](https://www.slavovlab.net) at Northeastern University and my B.A. in [Chemistry at Cornell University](https://www.cornell.edu). Between my bachelor's degree and PhD., I was at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/) as a Research Assistant in the Proteomic Platform. Additionally, I've done environmental mass spectrometry on tar from oil spills at the [Bermuda Institute for Ocean Sciences](https://www.bios.edu) and co-ops at Merck Exploratory Sciences and Vertex Pharmaceuticals. 
