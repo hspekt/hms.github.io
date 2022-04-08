@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.1.25)  10 MAR 2022 16:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.1.25)  7 APR 2022 23:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -444,7 +444,7 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 {/Users/hs/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [
 3]
 LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 
-359.
+364.
 (/Users/hs/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 ) 
@@ -472,9 +472,9 @@ rary/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/hs/Library/
 TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></Users/hs/Library/Tiny
 TeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/hs/Library/TinyTeX/t
 exmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on hs-cv.pdf (4 pages, 135844 bytes).
+Output written on hs-cv.pdf (4 pages, 136816 bytes).
 PDF statistics:
- 156 PDF objects out of 1000 (max. 8388607)
+ 159 PDF objects out of 1000 (max. 8388607)
  124 compressed objects within 2 object streams
  23 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
