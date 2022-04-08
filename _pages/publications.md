@@ -8,9 +8,9 @@ author_profile: true
 You can find a complete list of my publications on <u><a href="https://scholar.google.com/citations?user=Z2G1YhoAAAAJ">Google Scholar.</a></u>
 <br/>
 
-# Selected publications
+## Selected publications
 
-## [Single-cell proteomic and transcriptomic analysis of macrophage heterogeneity using SCoPE2](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02267-5)
+### [Single-cell proteomic and transcriptomic analysis of macrophage heterogeneity using SCoPE2](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02267-5)
 
 Published in _Genome Biology_, 2021. 
 
