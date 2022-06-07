@@ -125,6 +125,10 @@ Keshishian, H., Burgess, M.W., **Specht, H.**, Wallace, L., Clauser, K.R., Gille
 
 # TALKS
 
+**2022**. **Harrison Specht**. The Scientist, webinar series: [Accessible single cell proteomics by mass spectrometry](https://www.the-scientist.com/sponsored-webinars/using-single-cell-proteomics-to-understand-human-health-and-disease-69977). *__Invited__*
+
+**2022**. **Harrison Specht**. Accessible single cell proteomics by mass spectrometry. The Broad Institute of MIT and Harvard's Cell Circuits and Epigenomics seminar series. *__Invited__*
+
 **2020**. **Harrison Specht**, Edward Emmott,  Aleksandra A. Petelski, R. Gray Huffman, David H. Perlman, Marco Serra, Peter Kharchenko, Antonius Koller, Nikolai Slavov. "How to perform quantitative single cell proteomics with SCoPE2." GenomeWeb Webinar Series. *__Invited__*
 
 **2020**. **Harrison Specht**, Edward Emmott,  Aleksandra A. Petelski, R. Gray Huffman, David H. Perlman, Marco Serra, Peter Kharchenko, Antonius Koller, Nikolai Slavov. "How to perform quantitative single cell proteomics with SCoPE2." Association of Biomolecular Resource Facilities (ABRF) 2020 Annual Meeting. *__Invited__*
