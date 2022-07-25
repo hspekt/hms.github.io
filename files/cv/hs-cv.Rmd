@@ -66,6 +66,8 @@ urlcolor: blue
 
 # FELLOWSHIPS AND AWARDS
 
+**2022**  *The AM Prototype Fund* Chosen by the staff of the D'Amore-McKim School of Business to aid development of single cell proteomics venture 
+
 **2021**  *NSF I-Corps Grant* $10,000 for development of single cell proteomics venture
 
 **2021**  *Frequency Bio by Pillar VC & Petri* pillar.vc/frequency/
