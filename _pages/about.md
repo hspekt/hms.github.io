@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hello, I'm Harrison Specht! I am a scientist using my training in chemistry, mass spectrometry and data science to satisfy my curiosity about biology. Currently, I am  a post-doctoral researcher in the [Slavov Laboratory](https://slavovlab.net) at Northeastern University where I am working on single cell proteomics methods both experimental and computational.  
+Hello, I'm Harrison Specht! I am a scientist using my training in chemistry, mass spectrometry and data science to satisfy my curiosity about biology. Currently, I am a co-founder at Parallel Squared Technology Institute [(PTI)](https://parallelsq.org/team). Previously, I was a post-doctoral researcher in the [Slavov Laboratory](https://slavovlab.net) at Northeastern University where I created single cell proteomics methods both experimental and computational.  
 
 ## My research
 I develop [methods](https://scope2.slavovlab.net) for measuring the abundance of proteins in single cells. Why is this cool? Proteins perform computation! I observe coordinated changes in protein abundances in many single cells to understand their decision making processes in healthy and diseased states. 
